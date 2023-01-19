@@ -1,4 +1,7 @@
 .vs
+*.user
+obj
+output
 *.sdf
 sdk/obj
 **/ipch
